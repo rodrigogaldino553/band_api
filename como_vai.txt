@@ -1,0 +1,3 @@
+assistindo essa aula: https://youtu.be/3S9fyfmCf1A?t=891
+no minuto: 14:51
+situação: acabamos de instalar uma gem de serializers, que ate onde entendi permite fazer uns print bonito e formatado dos responses json, no momento eu estava tentando usar o postman pra fazer as requests e ver o resultado, pois o navegador não me parece mostrar no formato que estava precisando
